@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0.0" orientation="orthogonal" renderorder="right-down" width="28" height="20" tilewidth="32" tileheight="32" nextobjectid="10">
+ <tileset firstgid="1" name="SimpleGraphics32" tilewidth="32" tileheight="32" tilecount="40" columns="8">
+  <image source="simpleGraphics_tiles32x32_0.png" width="256" height="160"/>
+ </tileset>
+ <layer name="Maze" width="28" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzjZmBg4B7Fo3gUj+JRPIpH8SgeQhgAhQcYEQ==
+  </data>
+ </layer>
+ <objectgroup name="Objects">
+  <object id="1" name="Player" type="Player" x="73" y="87"/>
+  <object id="2" name="Goal" type="Goal" x="833" y="579"/>
+  <object id="3" name="Enemy" type="Enemy" x="830" y="122"/>
+  <object id="4" name="Enemy" type="Enemy" x="172" y="484"/>
+  <object id="5" name="Enemy" type="Enemy" x="637" y="402"/>
+  <object id="6" name="Enemy" type="Enemy" x="265" y="124"/>
+  <object id="7" name="Enemy" type="Enemy" x="358" y="448"/>
+  <object id="8" name="Enemy" type="Enemy" x="449" y="372"/>
+  <object id="9" name="Enemy" type="Enemy" x="67" y="332"/>
+ </objectgroup>
+ <layer name="Collision" width="28" height="20">
+  <data encoding="base64" compression="zlib">
+   eJyTY2BgkKMzhgF5BuyAWuKDyT5asEftG7Vv1L5R+0btG5r2MeBQRy3xgbKPnhgAPw0aSQ==
+  </data>
+ </layer>
+</map>
