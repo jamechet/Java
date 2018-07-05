@@ -1,0 +1,5 @@
+4
+hello|a greeting|0|1|2
+football|game played with round ball|1|soccer|3|-1
+sausage|a short cylindrical tube of minced meat|0|-1|-1
+car|a road vehicle powered by an internal combustion engine|2|motor vehicle|vehicle|-1|-1

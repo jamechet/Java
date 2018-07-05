@@ -1,0 +1,6 @@
+5
+hello|a greeting|0|1|2
+car|a road vehicle powered by an internal combustion engine|2|motor vehicle|vehicle|-1|-1
+inspection|to look at (something or someone) closely to assess their condition|1|examination|-1|3
+sausage|a short cylindrical tube of minced meat|0|-1|4
+test|a procedure intended to establish the quality, performance or reliability of something|1|examination|-1|-1

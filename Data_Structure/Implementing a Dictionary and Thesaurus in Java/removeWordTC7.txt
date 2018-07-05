@@ -1,0 +1,11 @@
+10
+hello|a greeting|0|1|2
+football|game played with round ball|1|soccer|3|4
+inspection|to look at (something or someone) closely to assess their condition|1|examination|5|6
+car|a road vehicle powered by an internal combustion engine|2|motor vehicle|vehicle|-1|-1
+giraffe|an animal with a very long neck|0|-1|-1
+help|to assist someone|0|-1|-1
+sausage|a short cylindrical tube of minced meat|0|7|8
+said|past and past participle of say|0|-1|9
+test|a procedure intended to establish the quality, performance or reliability of something|1|examination|-1|-1
+salute|a gesture of respect, homage or polite recognition or acknowledgement|0|-1|-1
