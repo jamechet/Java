@@ -1,0 +1,4 @@
+IN prototyping is require password: 123 
+extra folder bin is providing next to the police Car interface folder
+Most of the image is in the bin folder sometime project it won't work with other PC 
+So in case if something gose wrong that extra folder will help.
