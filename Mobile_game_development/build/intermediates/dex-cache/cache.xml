@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rabouvong/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.4.1/eca2621f18b162c03992bd3ecc226e8a477dc6f9/gdx-backend-android-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eca2621f18b162c03992bd3ecc226e8a477dc6f9">
+        <dex dex="/Users/rabouvong/Desktop/Mobile-Game-Development/Practical/Lab 5/TileMaze2/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.4.1-508afb21b250a7f365bcba81e3f10fa14cbf5879.jar" />
+    </item>
+    <item
+        jar="/Users/rabouvong/Desktop/Mobile-Game-Development/Assignment/Testing/Assignment/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2aad52be7aa78d705d99fa7ac432b134ef53bdb">
+        <dex dex="/Users/rabouvong/Desktop/Mobile-Game-Development/Assignment/Testing/Assignment/android/build/intermediates/pre-dexed/debug/core-1.0-619efd825561f2652ec48e83ddb768f48bb72dd2.jar" />
+    </item>
+    <item
+        jar="/Users/rabouvong/Desktop/Mobile-Game-Development/Assignment/Testing 2/Assignment/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="634e05fb6e4cc20e1c8274c3241700c4e12962d9">
+        <dex dex="/Users/rabouvong/Desktop/Mobile-Game-Development/Assignment/Testing 2/Assignment/android/build/intermediates/pre-dexed/debug/core-1.0-6f251c22bd00c9a0b821b21a4720dcdeab65e096.jar" />
+    </item>
+    <item
+        jar="/Users/rabouvong/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.4.1/df470d263438048af74860ca51fc497c16a0c76a/gdx-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="df470d263438048af74860ca51fc497c16a0c76a">
+        <dex dex="/Users/rabouvong/Desktop/Mobile-Game-Development/Practical/Lab 5/TileMaze2/android/build/intermediates/pre-dexed/debug/gdx-1.4.1-f6cbc7c39ea1f7a3e5d1f6ded4a8c472a9859684.jar" />
+    </item>
+    <item
+        jar="/Users/rabouvong/Desktop/Mobile-Game-Development/Practical/Lab 5/TileMaze2/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e2de38a1adfa35e4278661673b29b7f3c7a32168">
+        <dex dex="/Users/rabouvong/Desktop/Mobile-Game-Development/Practical/Lab 5/TileMaze2/android/build/intermediates/pre-dexed/debug/core-1.0-a4e3f1b12c2227c8cd3666e49c33214e578ee4bb.jar" />
+    </item>
+    <item
+        jar="/Users/rabouvong/Desktop/Mobile-Game-Development/Assignment/Testing 1/Assignment/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7bea0197b9255fdf7807dab21b9fc26a2b8f97ff">
+        <dex dex="/Users/rabouvong/Desktop/Mobile-Game-Development/Assignment/Testing 1/Assignment/android/build/intermediates/pre-dexed/debug/core-1.0-09794260a2dc416a07369a8caf531c5eb2dcd181.jar" />
+    </item>
+    <item
+        jar="/Users/rabouvong/Desktop/Mobile-Game-Development/Assignment/Gaming/Assignment/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="31da67a828244fd5554a1402db2a7ced02a01347">
+        <dex dex="/Users/rabouvong/Desktop/Mobile-Game-Development/Assignment/Gaming/Assignment/android/build/intermediates/pre-dexed/debug/core-1.0-dfc76661d2c61f87406a48802175989ee9d12731.jar" />
+    </item>
+
+</items>
